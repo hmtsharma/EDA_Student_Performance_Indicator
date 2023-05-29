@@ -1,9 +1,12 @@
 # EDA_Student_Performance_Indicator
 #1 
+
 Exploratory Data Analysis (EDA) for Student Performance Indicator...
+
 The project aims to analyze and understand the factors that influence student performance in an educational institution. By conducting Exploratory Data Analysis (EDA) on a dataset containing various attributes of students, we can identify patterns, correlations, and insights that can help predict and improve student performance indicators. The project will involve data preprocessing, visualization, and statistical analysis techniques to extract meaningful information.
 
 Data Collection:
+
 Collect a comprehensive dataset containing information about students, such as demographics (age, gender, ethnicity), educational (parental level of education) and performance metrics (grades, test scores).
 
 Data Preprocessing:
