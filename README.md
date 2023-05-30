@@ -32,5 +32,5 @@ Insights and Recommendations:
 - Provide actionable insights and recommendations to improve student performance based on the identified factors.
 For example, determine if gender, ethnicity, parental education, lunch, or test preparation course have a significant impact.
 
-Visualization and Reporting:
-- Create visualizations, such as bar charts, scatter plots, or heatmaps, to present the findings in an easily understandable format.
+Visualization:
+Create visualizations, such as bar charts, scatter plots, or heatmaps, to present the findings in an easily understandable format.
