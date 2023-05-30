@@ -33,4 +33,5 @@ Insights and Recommendations:
 For example, determine if gender, ethnicity, parental education, lunch, or test preparation course have a significant impact.
 
 Visualization:
+
 Create visualizations, such as bar charts, scatter plots, or heatmaps, to present the findings in an easily understandable format.
