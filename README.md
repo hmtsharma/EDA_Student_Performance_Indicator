@@ -34,4 +34,3 @@ For example, determine if gender, ethnicity, parental education, lunch, or test 
 
 Visualization and Reporting:
 - Create visualizations, such as bar charts, scatter plots, or heatmaps, to present the findings in an easily understandable format.
-- Prepare a comprehensive report summarizing the project, including the problem statement, data collection, preprocessing steps, EDA analysis techniques, statistical tests performed, insights, and recommendations.
